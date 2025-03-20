@@ -39,11 +39,11 @@ public class Episodio implements EntidadeArquivo {
     }
 
     // Getters e Setters
-    public int getId() {
+    public int getID() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setID(int id) {
         this.id = id;
     }
 
